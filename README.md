@@ -129,9 +129,3 @@ jupyter notebook
 > git lfs install
 > git lfs pull
 > ```
-
----
-
-## Author
-
-**Ananya Soni** — [github.com/AnanyaSoni2004](https://github.com/AnanyaSoni2004)
