@@ -12,7 +12,7 @@ End-to-end fraud detection project on 1 million financial transactions. Covers d
 | Fraud rate | 1.71 % (17,143 fraudulent transactions) |
 | Total fraud losses | $12.52 M |
 | Time period | 2022 – 2024 (hourly granularity) |
-| Portfolio site | https://data-analystics-portfolio.vercel.app/ |
+
 
 ---
 
